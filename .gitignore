@@ -1,0 +1,49 @@
+# LabVIEW compiled object cache
+*.lvlps
+*.aliases
+
+# Compiled VI objects (compiled code separated from block diagram)
+_vi.lib/
+_req.vi/
+
+# LabVIEW build output
+builds/
+build/
+
+# Compiled build output
+*.llb
+
+# LabVIEW application builder output
+*.exe
+*.dll
+*.so
+
+# LabVIEW shared libraries
+*.lvsolib
+
+# LabVIEW temporary/backup files
+*.bak
+*.tmp
+*_mine.vi
+*_theirs.vi
+*_backup.vi
+
+# LabVIEW compiled bitfiles (FPGA)
+*.lvbitx
+*.bit
+
+# LabVIEW deployment packages
+*.nipkg
+
+# NI Package Manager
+*.vipc
+
+# LabVIEW real-time targets
+*.rtexe
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store

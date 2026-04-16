@@ -44,6 +44,8 @@
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="visa_init.vi" Type="VI" URL="../visa_init.vi"/>
+		<Item Name="siglent_config.vi" Type="VI" URL="../siglent_config.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">

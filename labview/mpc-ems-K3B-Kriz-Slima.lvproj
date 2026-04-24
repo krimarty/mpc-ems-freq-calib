@@ -50,6 +50,7 @@
 		<Item Name="counter_init.vi" Type="VI" URL="../counter_init.vi"/>
 		<Item Name="osciloscope_config.vi" Type="VI" URL="../osciloscope_config.vi"/>
 		<Item Name="counter_config.vi" Type="VI" URL="../counter_config.vi"/>
+		<Item Name="table_number_stringI.vi" Type="VI" URL="../table_number_stringI.vi"/>
 		<Item Name="osciloscope_meas.vi" Type="VI" URL="../osciloscope_meas.vi"/>
 		<Item Name="counter_meas.vi" Type="VI" URL="../counter_meas.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
